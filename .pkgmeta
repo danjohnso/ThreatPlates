@@ -36,7 +36,6 @@ externals:
   Libs/LibClassicDurations: https://repos.curseforge.com/wow/libclassicdurations
 
 embedded-libraries:
-  # - LibClassicCasterino
   # - ForAllIndentsAndPurposes
 
 enable-nolib-creation: no
